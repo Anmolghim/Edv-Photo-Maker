@@ -32,7 +32,7 @@ The processed photo aims to meet the US EDV (Diversity Visa Lottery) standards, 
 ⚙️ Installation & Setup
 1. Clone the Repository
 
-git clone https://github.com/YourUsername/edv-photo-maker.git
+git clone [https://github.com/Anmolghim/Edv-Photo-Maker.git]
 cd edv-photo-maker
 
 2. Create a Python Virtual Environment
@@ -66,13 +66,3 @@ The server will start (usually at http://127.0.0.1:5000) and you can interact wi
 
     Download the enhanced, background-removed EDV-compliant photo.
 
-📂 Project Structure
-
-edv-photo-maker/
-├── app.py                  # Flask backend
-├── static/                 # Frontend JS, CSS
-├── templates/              # HTML files
-├── venv/                   # Virtual environment (not tracked)
-├── processed_images/       # Output images
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
